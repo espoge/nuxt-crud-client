@@ -17,7 +17,7 @@
 ### Start the dev server
 
 ```js
-$ npm install
+$ npm run dev
 ```
 
 ## Questions or suggestions?
